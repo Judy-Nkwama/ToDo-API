@@ -1,7 +1,0 @@
-C:\Users\asus\Masaüstü\TodoList\obj\Debug\net6.0\TodoList.csproj.AssemblyReference.cache
-C:\Users\asus\Masaüstü\TodoList\obj\Debug\net6.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\asus\Masaüstü\TodoList\obj\Debug\net6.0\TodoList.AssemblyInfoInputs.cache
-C:\Users\asus\Masaüstü\TodoList\obj\Debug\net6.0\TodoList.AssemblyInfo.cs
-C:\Users\asus\Masaüstü\TodoList\obj\Debug\net6.0\TodoList.csproj.CoreCompileInputs.cache
-C:\Users\asus\Masaüstü\TodoList\obj\Debug\net6.0\TodoList.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\asus\Masaüstü\TodoList\obj\Debug\net6.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
